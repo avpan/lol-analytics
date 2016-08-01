@@ -10,8 +10,13 @@ endstats_winner/loser for rank, lane, kills, deaths, assists, total cs, total go
 timeline_winner/loser for time, gold@time, cs@time
 csv_winner/loser for time, avgGold@time, avgCs@time
 
-for analysis 
-Run resetfinaldatacsv.py to clear it and resest
-Run calculate_avg_allwinner/loser
-Run plotTimeSeries.py 
+for analysis for every winner and loser regardless of lane
+Run python resetfinaldatacsv.py to clear it and reset
+Run python calculate_avg_allwinner/loser
+Run python plotTimeSeries_All.py 
+
+for analysis for every winner and loser with respect to their lanes
+Run python resetfinaldatacsv.py to clear it and reset
+Run python calculate_avg_laneswinner/loser
+Run python plotTimeSeries_Lanes.py 
 
