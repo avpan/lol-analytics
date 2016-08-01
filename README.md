@@ -1,1 +1,10 @@
 # lol-analytics
+Understanding the player performance in the game League of Legends is important to game designers and players. League of Legends (LoL) is known as a Multiplayer Online Battle Arena or MOBA. It is a game played by millions of players through the internet. Each player controls a champion and engages with the opposing team to destroy that team's nexus.
+
+Teams are consisted of 5v5, and the games include many game mode varieties for the user base. One of these modes is a competitive rank mode. Players play each other in a modenthat grants or removes the players league points (lp) and gaining enough lp qualifies players to advance rankings. Understanding the win conditions and most effective way to win matches for those in competitive rankings is naturally desired. It is also important for game designers because it gives them a metric to not design something that would consistently under or over perform these metrics.
+
+One of the best metrics to determine one's success in a LoL match is the gold earned by a player during the course of the game. Gold is the game's main currency, which can be used to purchase items that increase the power of a player champion. Gold is obtained through killing minions, killing enemy champions, assisting in enemy champion kills, and destroying objectives.
+
+I use Riot Games' API, which allows collection of data about summoners (LoL players), champions, and matches. Using a crawler script, I gathered data by grabbing the match of one summoner and from the matchlist I gathered a different match from a summoner from that current match. Due to Riot's own rate limit for developers, I gathered data for 2004 matches, which accounts to roughly 343mb.
+
+I decided to analyze how gold is earned by players who loss and win matches in a competitve rank throughout the length of a match. A match can be determined by 3 intervals in the game: early, mid, and late game. The early game constitutes for the first 10-20 minutes of a game. The mid game is usually during the 20-40 minutes of a game. Finally, the late game consists of times greater than 40 minutes.
