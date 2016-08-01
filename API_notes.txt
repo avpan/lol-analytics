@@ -1,0 +1,23 @@
+NOTES USING RIOT API:
+
+Each match .json file has classes
+processedAt
+queueType
+matchVersion
+platformId
+season
+region
+matchId
+mapId
+matchCreation
+teams
+participants
+matchMode
+extractions
+matchDuration
+timeline
+participantIdentities
+matchType
+_id
+
+{u'spell1Id': 21, u'championId': 35, u'participantId': 10, u'runes': [{u'runeId': 5245, u'rank': 9}, {u'runeId': 5289, u'rank': 9}, {u'runeId': 5317, u'rank': 9}, {u'runeId': 5335, u'rank': 3}], u'highestAchievedSeasonTier': u'UNRANKED', u'teamId': 200, u'spell2Id': 14, u'masteries': [{u'masteryId': 6111, u'rank': 5}, {u'masteryId': 6122, u'rank': 1}, {u'masteryId': 6131, u'rank': 5}, {u'masteryId': 6142, u'rank': 1}, {u'masteryId': 6151, u'rank': 5}, {u'masteryId': 6162, u'rank': 1}, {u'masteryId': 6312, u'rank': 5}, {u'masteryId': 6322, u'rank': 1}, {u'masteryId': 6331, u'rank': 5}, {u'masteryId': 6342, u'rank': 1}], u'timeline': {u'lane': u'MIDDLE', u'csDiffPerMinDeltas': {u'thirtyToEnd': -3.8, u'twentyToThirty': -2.6999999999999997, u'zeroToTen': 1.6999999999999997, u'tenToTwenty': -1.7999999999999998}, u'goldPerMinDeltas': {u'thirtyToEnd': 346.1, u'twentyToThirty': 301.4, u'zeroToTen': 232.6, u'tenToTwenty': 309.6}, u'xpDiffPerMinDeltas': {u'thirtyToEnd': -217.8, u'twentyToThirty': -48.89999999999998, u'zeroToTen': 54.400000000000006, u'tenToTwenty': -14.600000000000023}, u'creepsPerMinDeltas': {u'thirtyToEnd': 0.7, u'twentyToThirty': 0.8999999999999999, u'zeroToTen': 4.8, u'tenToTwenty': 2.1}, u'xpPerMinDeltas': {u'thirtyToEnd': 316.5, u'twentyToThirty': 318.8, u'zeroToTen': 383.0, u'tenToTwenty': 307.0}, u'role': u'SOLO', u'damageTakenDiffPerMinDeltas': {u'thirtyToEnd': -14.200000000000045, u'twentyToThirty': -109.59999999999997, u'zeroToTen': 118.89999999999999, u'tenToTwenty': 23.299999999999955}, u'damageTakenPerMinDeltas': {u'thirtyToEnd': 768.2, u'twentyToThirty': 686.5, u'zeroToTen': 486.70000000000005, u'tenToTwenty': 769.8}}, u'stats': {u'neutralMinionsKilledTeamJungle': 11, u'totalPlayerScore': 0, u'unrealKills': 0, u'objectivePlayerScore': 0, u'totalDamageDealt': 102218, u'magicDamageDealtToChampions': 11820, u'largestMultiKill': 1, u'largestKillingSpree': 3, u'item1': 3077, u'quadraKills': 0, u'magicDamageTaken': 11520, u'towerKills': 0, u'totalTimeCrowdControlDealt': 687, u'wardsKilled': 1, u'firstTowerAssist': False, u'firstBloodAssist': False, u'firstTowerKill': False, u'item2': 2033, u'item3': 3031, u'item0': 3158, u'winner': True, u'item6': 3340, u'wardsPlaced': 15, u'item4': 3087, u'item5': 3147, u'minionsKilled': 98, u'doubleKills': 0, u'tripleKills': 0, u'neutralMinionsKilledEnemyJungle': 6, u'goldEarned': 14423, u'magicDamageDealt': 28652, u'kills': 10, u'largestCriticalStrike': 961, u'firstInhibitorKill': False, u'trueDamageTaken': 1975, u'firstBloodKill': False, u'assists': 8, u'deaths': 11, u'neutralMinionsKilled': 17, u'combatPlayerScore': 0, u'visionWardsBoughtInGame': 0, u'physicalDamageDealtToChampions': 12489, u'goldSpent': 12260, u'trueDamageDealt': 1846, u'trueDamageDealtToChampions': 1046, u'champLevel': 16, u'pentaKills': 0, u'firstInhibitorAssist': False, u'totalHeal': 665, u'physicalDamageDealt': 71719, u'sightWardsBoughtInGame': 0, u'totalDamageDealtToChampions': 25355, u'totalUnitsHealed': 1, u'inhibitorKills': 0, u'totalScoreRank': 0, u'totalDamageTaken': 32313, u'killingSprees': 2, u'physicalDamageTaken': 18817}}
