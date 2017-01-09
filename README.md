@@ -1,4 +1,4 @@
-# lol-analytics
+# lol-analytics (outdated)
 Understanding the player performance in the game League of Legends is important to game designers and players. League of Legends (LoL) is known as a Multiplayer Online Battle Arena or MOBA. It is a game played by millions of players through the internet. Each player controls a champion and engages with the opposing team to destroy that team's nexus.
 
 Teams are consisted of 5v5, and the games include many game mode varieties for the user base. One of these modes is a competitive rank mode. Players play each other in a modenthat grants or removes the players league points (lp) and gaining enough lp qualifies players to advance rankings. Understanding the win conditions and most effective way to win matches for those in competitive rankings is naturally desired. It is also important for game designers because it gives them a metric to not design something that would consistently under or over perform these metrics.
